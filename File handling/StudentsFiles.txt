@@ -1,0 +1,15 @@
+
+Name: hope 
+Marks=100 
+
+Name: Gian 
+Marks=90 
+
+Name: hercules 
+Marks=90 
+
+Name: Zacchary 
+Marks=100 
+
+Name: Christian 
+Marks=75 
