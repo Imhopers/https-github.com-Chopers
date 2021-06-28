@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624503822 source:c:\users\admin\desktop\codes\the9thpower\main.c
+	<math.h>
+	<stdio.h>
+
