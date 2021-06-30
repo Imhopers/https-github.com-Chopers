@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625016781 source:c:\users\admin\desktop\codes\pre-actvvoting\main.c
+	<stdio.h>
+	<conio.h>
+
